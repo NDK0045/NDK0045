@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NDK0045
+- 👋 Hi, I’m @NDK0045. A student 
 - 👀 I’m interested in coding, design and game development
 - 🌱 I’m currently learning c++/C#
 
